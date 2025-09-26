@@ -1,3 +1,50 @@
-{
+
+ [ {
+    "title": "Mt Baker Kayaking",
+    "artist": "Bryan Hanson",
+    "year": 2020,
+    "description": "Kayaking Baker Lake with Mt Baker in the background.",
+    "image": "https://images.unsplash.com/photo-1601678701603-4f0573507f6f?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+     
+    "activity_type": {
+      "at_level0": "Water Sport",
+      "at_level1": "Water Sport > Boating",
+      "at_level2": "Water Sport > Boating > Kayaking"
+    },
+    "location": {
+      "loc_level0": "Country",
+      "loc_level1": "Country > U.S.A.",
+      "loc_level2": "Country > U.S.A. > Washington State"
+    },
     
-}
+    "natural wonder": {
+      "nw_level0": "Mountains",
+      "nw_level1": "Mountains > Cascade Range",
+      "nw_level2": "Mountains > Cascade Range > Mt Baker"
+    }
+  },
+ {
+    "title": "Hawaiian Sunset sailimg",
+    "artist": "Joel Moysuh",
+    "year": 2021,
+    "description": "Sunset sail cruise off the coast of Kapolei, Hawaii.",
+    "image": "https://images.unsplash.com/photo-1620261952751-b294980bcdbc?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "activity_type": {
+      "at_level0": "Water Sport",
+      "at_level1": "Water Sport > Boating",
+      "at_level2": "Water Sport > Boating > Sailing"
+    },
+    "location": {
+      "loc_level0": "Country",
+      "loc_level1": "Country > U.S.A.",
+      "loc_level2": "Country > U.S.A. > Hawaii",
+      "loc_level3": "Country > U.S.A. > Hawaii > Waikiki"
+    },
+    
+    "natural wonder": {
+      "nw_level0": ["Mountains", "Oceans"],
+      "nw_level1": ["Mountains > Ko olau Range", "Oceans > Pacific"],
+      "nw_level2": ["Mountains > Ko olau Range > Diamond Head (Le ahi)", "Oceans > Pacific > Mamala Bay"]
+    }
+ }
+]
