@@ -1,50 +1,546 @@
 
  [ {
-    "title": "Mt Baker Kayaking",
-    "artist": "Bryan Hanson",
+    "title": "Nike",
+    "artist": "wu yi",
     "year": 2020,
-    "description": "Kayaking Baker Lake with Mt Baker in the background.",
-    "image": "https://images.unsplash.com/photo-1601678701603-4f0573507f6f?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Nike photo for CouponHunt: https://couponhunt.org/store/nike/",
+    "image": "https://images.unsplash.com/photo-1608541737042-87a12275d313?q=80&w=2061&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
      
-    "activity_type": {
-      "at_level0": "Water Sport",
-      "at_level1": "Water Sport > Boating",
-      "at_level2": "Water Sport > Boating > Kayaking"
+    "brand_types": {
+      "bt_level0": "Fashion",
+      "bt_level1": "Fashion > Sportswear",
+      "bt_level2": "Fashion > Sportswear > Nike"
     },
-    "location": {
-      "loc_level0": "Country",
-      "loc_level1": "Country > U.S.A.",
-      "loc_level2": "Country > U.S.A. > Washington State"
+    "brand_origin": {
+      "origin_level0": "American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > Oregon",
+      "origin_level3": "American > USA > Oregon > Eugene"
     },
     
-    "natural wonder": {
-      "nw_level0": "Mountains",
-      "nw_level1": "Mountains > Cascade Range",
-      "nw_level2": "Mountains > Cascade Range > Mt Baker"
+    "logo_type": {
+      "lt_level0": "Icon",
+      "lt_level1": "Icon > Abstraction",
+      "lt_level2": "Icon > Abstraction > Minimal"
     }
   },
  {
-    "title": "Hawaiian Sunset sailimg",
-    "artist": "Joel Moysuh",
-    "year": 2021,
-    "description": "Sunset sail cruise off the coast of Kapolei, Hawaii.",
-    "image": "https://images.unsplash.com/photo-1620261952751-b294980bcdbc?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "activity_type": {
-      "at_level0": "Water Sport",
-      "at_level1": "Water Sport > Boating",
-      "at_level2": "Water Sport > Boating > Sailing"
+    "title": "Adidas",
+    "artist": "Jan Zinnbauer",
+    "year": 2022,
+    "description": "Adidas blue logo of three leaves",
+    "image": "https://images.unsplash.com/photo-1658087252613-a4d09bf7a64c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fashion",
+      "bt_level1": "Fashion > Sportswear",
+      "bt_level2": "Fashion > Sportswear > Adidas"
     },
-    "location": {
-      "loc_level0": "Country",
-      "loc_level1": "Country > U.S.A.",
-      "loc_level2": "Country > U.S.A. > Hawaii",
-      "loc_level3": "Country > U.S.A. > Hawaii > Waikiki"
+    "origin": {
+      "origin_level0": "European",
+      "origin_level1": "European > Germany",
+      "origin_level2": "European > Germany > Herzogenaurach"
     },
     
-    "natural wonder": {
-      "nw_level0": ["Mountains", "Oceans"],
-      "nw_level1": ["Mountains > Ko olau Range", "Oceans > Pacific"],
-      "nw_level2": ["Mountains > Ko olau Range > Diamond Head (Le ahi)", "Oceans > Pacific > Mamala Bay"]
+    "logo_type": {
+      "lt_level0": "Mixed",
+      "lt_level1": "Mixed > Text + Icon Combination",
+      "lt_level2": "Mixed > Text + Icon Combination > Vertical"
+    }
+},
+{
+    "title": "New Balance",
+    "artist": "H&CO",
+    "year": 2018,
+    "description": "The NB Billboard",
+    "image": "https://images.unsplash.com/photo-1518841252147-00cc0a43dcaf?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fashion",
+      "bt_level1": "Fashion > Sportswear",
+      "bt_level2": "Fashion > Sportswear > New Balance"
+    },
+    "origin": {
+      "origin_level0": "American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > Massachusetts",
+      "origin_level3": "American > USA > Massachusetts > Boston"
+    },
+    "logo_type": {
+      "lt_level0": "Letter",
+      "lt_level1": "Letter > Plain",
+      "lt_level2": "Letter > Plain > Abbreviation"
+    }
+ },
+ {
+    "title": "Uniqlo",
+    "artist": "Howen",
+    "year": 2020,
+    "description": "The Uniqlo Billboard on a building",
+    "image": "https://images.unsplash.com/photo-1602519095267-53c956c8cf74?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fashion",
+      "bt_level1": "Fashion > Casual",
+      "bt_level2": "Fashion > Casual > Uniqlo"
+    },
+    "origin": {
+      "origin_level0": "Asian",
+      "origin_level1": "Asian > Japan",
+      "origin_level2": "Asian > Japan > Yamaguchi"
+    },
+    "logo_type": {
+      "lt_level0": "Letter",
+      "lt_level1": "Letter > Plain",
+      "lt_level2": "Letter > Plain > Full name"
+    }
+},
+{
+    "title": "Polo Ralph Lauren",
+    "artist": "Krisna Azie",
+    "year": 2022,
+    "description": "Polo ralph lauren store",
+    "image": "https://images.unsplash.com/photo-1661655550144-eda0b073f8dc?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fashion",
+      "bt_level1": "Fashion > Casual",
+      "bt_level2": "Fashion > Casual > Polo Ralph Lauren"
+    },
+    "origin": {
+      "origin_level0":"American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > New York",
+      "origin_level3": "American > USA > New York > New York"
+    },
+    "logo_type": {
+      "lt_level0": "Mixed",
+      "lt_level1": "Mixed > Text + Icon Combination",
+      "lt_level2": "Mixed > Text + Icon Combination > Vertical"
+    }
+},
+{
+    "title": "H&M",
+    "artist": "Sei",
+    "year": 2020,
+    "description": "H&M fashion store in Osaka, Japan",
+    "image": "https://images.unsplash.com/photo-1661655550144-eda0b073f8dc?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fashion",
+      "bt_level1": "Fashion > Casual",
+      "bt_level2": "Fashion > Casual > H&M"
+    },
+    "origin": {
+      "origin_level0": "European",
+      "origin_level1": "European > Sweden",
+      "origin_level2": "European > Sweden > Vasteras"
+    },
+    "logo_type": {
+      "lt_level0": "Letter",
+      "lt_level1": "Letter > Plain",
+      "lt_level2": "Letter > Plain > Full name"
+    }
+},
+{
+    "title": "Chanel",
+    "artist": "Silvia",
+    "year": 2021,
+    "description": "Chanel Store Logo",
+    "image": "https://images.unsplash.com/photo-1625228339861-24040dc97591?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fashion",
+      "bt_level1": "Fashion > Luxury",
+      "bt_level2": "Fashion > Luxury > Chanel"
+    },
+    "origin": {
+      "origin_level0": "European",
+      "origin_level1": "European > France",
+      "origin_level2": "European > France > Paris"
+    },
+    "logo_type": {
+      "lt_level0": "Letter",
+      "lt_level1": "Letter > Plain",
+      "lt_level2": "Letter > Plain > Full name"
+    }
+},
+{
+    "title": "Dior",
+    "artist": "Steven Su",
+    "year": 2019,
+    "description": "Dior logo with background",
+    "image": "https://images.unsplash.com/photo-1557653038-2eccb2175702?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fashion",
+      "bt_level1": "Fashion > Luxury",
+      "bt_level2": "Fashion > Luxury > Dior"
+    },
+    "origin": {
+      "origin_level0": "European",
+      "origin_level1": "European > France",
+      "origin_level2": "European > France > Paris"
+    },
+    "logo_type": {
+      "lt_level0": "Letter",
+      "lt_level1": "Letter > Plain",
+      "lt_level2": "Letter > Plain > Full name"
+    }
+},
+{
+    "title": "Domino's Pizza",
+    "artist": "appshunter.io",
+    "year": 2024,
+    "description": "Domino's Pizza on phone",
+    "image": "https://images.unsplash.com/photo-1730817403537-b35e97a5fe65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fast Food",
+      "bt_level1": "Fast Food > Pizza",
+      "bt_level2": "Fast Food > Pizza > Domino's Pizza"
+    },
+    "origin": {
+      "origin_level0": "American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > Michigan",
+      "origin_level3": "American > USA > Michigan > Ypsilanti"
+    },
+    "logo_type": {
+      "lt_level0": "Icon",
+      "lt_level1": "Icon > Symbol",
+      "lt_level2": "Icon > Symbol > Object"
+    }
+},
+{
+    "title": "Pizza Hut",
+    "artist": "Mishaal Zahed",
+    "year": 2021,
+    "description": "Pizza hut logo on paper",
+    "image": "https://images.unsplash.com/photo-1620174645265-05820da4ff20?q=80&w=2231&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fast Food",
+      "bt_level1": "Fast Food > Pizza",
+      "bt_level2": "Fast Food > Pizza > Pizza Hut"
+    },
+    "origin": {
+      "origin_level0": "American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > Kansas",
+      "origin_level3": "American > USA > Kansas > Wichita"
+    },
+    "logo_type": {
+      "lt_level0": "Mixed",
+      "lt_level1": "Mixed > Text + Icon Combination",
+      "lt_level2": "Mixed > Text + Icon Combination > Vertical"
+    }
+},
+{
+    "title": "McDonald's",
+    "artist": "Jurij Kenda",
+    "year": 2020,
+    "description": "a mcdonald's sign with a cloudy sky in the background",
+    "image": "https://images.unsplash.com/photo-1606720335177-3d04e70fb13b?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fast Food",
+      "bt_level1": "Fast Food > Burger",
+      "bt_level2": "Fast Food > Burger > McDonald's"
+    },
+    "origin": {
+      "origin_level0": "American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > California",
+      "origin_level3": "American > USA > California > San Bernardino"
+    },
+    "logo_type": {
+      "lt_level0": "Letter",
+      "lt_level1": "Letter > Plain",
+      "lt_level2": "Letter > Plain > Abbreviation"
+    }
+},
+{
+    "title": "Burger King",
+    "artist": "Ismail Hadine",
+    "year": 2021,
+    "description": "UNKs coffee shop signage",
+    "image": "https://images.unsplash.com/photo-1615921511258-0aa98c84d400?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fast Food",
+      "bt_level1": "Fast Food > Burger",
+      "bt_level2": "Fast Food > Burger > Burger king"
+    },
+    "origin": {
+      "origin_level0": "American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > Florida",
+      "origin_level3": "American > USA > Florida > Jacksonville"
+    },
+    "logo_type": {
+      "lt_level0": "Mixed",
+      "lt_level1": "Mixed > Text + Icon Combination",
+      "lt_level2": "Mixed > Text + Icon Combination > Vertical"
+    }
+},
+{
+    "title": "Shake Shack",
+    "artist": "Subhaan Saleem",
+    "year": 2021,
+    "description": "white and brown UNKs restaurant",
+    "image": "https://images.unsplash.com/photo-1619474387533-301ed3b5a734?q=80&w=930&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fast Food",
+      "bt_level1": "Fast Food > Burger",
+      "bt_level2": "Fast Food > Burger > Shake Shack"
+    },
+    "origin": {
+      "origin_level0": "American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > New York",
+      "origin_level3": "American > USA > New York > New York"
+    },
+    "logo_type": {
+      "lt_level0": "Letter",
+      "lt_level1": "Letter > Plain",
+      "lt_level2": "Letter > Plain > Full name"
+    }
+},
+{
+    "title": "Chick-Fil-A",
+    "artist": "Malhar Patel",
+    "year": 2022,
+    "description": "Logo of Chick-Fil-A on the shop",
+    "image": "https://images.unsplash.com/photo-1658402238107-a781ea18fe91?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",     
+    "brand_types": {
+      "bt_level0": "Fast food",
+      "bt_level1": "Fast food > Chicken",
+      "bt_level2": "Fast food > Chicken > Chick-Fil-A"
+    },
+    "brand_origin": {
+      "origin_level0": "American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > Georgia",
+      "origin_level3": "American > USA > Georgia > ​​Hapeville"
+    },    
+    "logo_type": {
+      "lt_level0": "Mixed",
+      "lt_level1": "Mixed > Text + Icon Combination",
+      "lt_level2": "Mixed > Text + Icon Combination > Horizontal"
+    }
+  },
+ {
+    "title": "KFC",
+    "artist": "Kim Wine",
+    "year": 2021,
+    "description": "Logo of KFC in front of the shop",
+    "image": "https://images.unsplash.com/photo-1632845567654-254e968e6afe?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",     
+    "brand_types": {
+      "bt_level0": "Fast food",
+      "bt_level1": "Fast food > Chicken",
+      "bt_level2": "Fast food > Chicken > KFC"
+    },
+    "brand_origin": {
+      "origin_level0": "American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > Kentucky",
+      "origin_level3": "American > USA > Kentucky > North Corbin"
+    },    
+    "logo_type": {
+      "lt_level0": "Mixed",
+      "lt_level1": "Mixed > Text + Icon Combination",
+      "lt_level2": "Mixed > Text + Icon Combination > Vertical"
+    }
+  },
+ {
+    "title": "Ferrari",
+    "artist": "Rachael",
+    "year": 2019,
+    "description": "Logo of Ferrari on the car",
+    "image": "https://images.unsplash.com/photo-1576020111856-ac48d70c5a04?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",     
+    "brand_types": {
+      "bt_level0": "Cars",
+      "bt_level1": "Cars > Sports cars",
+      "bt_level2": "Cars > Sports cars > Ferrari"
+    },
+    "brand_origin": {
+      "origin_level0": "European",
+      "origin_level1": "European > Italy",
+      "origin_level2": "European > Italy > Maranello"
+    },    
+    "logo_type": {
+      "lt_level0": "Mixed",
+      "lt_level1": "Mixed > Emblem/Badge",
+      "lt_level2": "Mixed > Emblem/Badge > Shield"
+    }
+  },
+ {
+    "title": "Lamborghini",
+    "artist": "Chris Kursikowski",
+    "year": 2021,
+    "description": "Logo of Lamborghini on the car",
+    "image": "https://images.unsplash.com/photo-1632479803237-53e868bb2133?q=80&w=2375&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",     
+    "brand_types": {
+      "bt_level0": "Cars",
+      "bt_level1": "Cars > Sports cars",
+      "bt_level2": "Cars > Sports cars > Lamborghini"
+    },
+    "brand_origin": {
+      "origin_level0": "European",
+      "origin_level1": "European > Italy",
+      "origin_level2": "European > Italy > Bolognese"
+    },    
+    "logo_type": {
+      "lt_level0": "Mixed",
+      "lt_level1": "Mixed > Emblem/Badge",
+      "lt_level2": "Mixed > Emblem/Badge > Shield"
+    }
+  },
+ {
+    "title": "Porsche",
+    "artist": "Heber Davis",
+    "year": 2023,
+    "description": "Logo of Porsche",
+    "image": "https://images.unsplash.com/photo-1688992515636-0e7d2f898b88?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",     
+    "brand_types": {
+      "bt_level0": "Cars",
+      "bt_level1": "Cars > Sports cars",
+      "bt_level2": "Cars > Sports cars > Porsche"
+    },
+    "brand_origin": {
+      "origin_level0": "European",
+      "origin_level1": "European > Germany",
+      "origin_level2": "European > Germany > Stuttgart"
+    },    
+    "logo_type": {
+      "lt_level0": "Mixed",
+      "lt_level1": "Mixed > Emblem/Badge",
+      "lt_level2": "Mixed > Emblem/Badge > Shield"
+    }
+  },
+ {
+    "title": "Tesla",
+    "artist": "BoliviaInteligente",
+    "year": 2022,
+    "description": "Logo of Tesla",
+    "image": "https://images.unsplash.com/photo-1662947475743-35a389428742?q=80&w=2128&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",     
+    "brand_types": {
+      "bt_level0": "Cars",
+      "bt_level1": "Cars > Electric cars",
+      "bt_level2": "Cars > Electric cars > Tesla"
+    },
+    "brand_origin": {
+      "origin_level0": "American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > California",
+      "origin_level3": "American > USA > California > San Carlos"
+    },    
+    "logo_type": {
+      "lt_level0": "Mixed",
+      "lt_level1": "Mixed > Text + Icon Combination",
+      "lt_level2": "Mixed > Text + Icon Combination > Vertical"
+    }
+  },
+ {
+    "title": "Rivian",
+    "artist": "Daniel Romero",
+    "year": 2025,
+    "description": "Logo of Rivian on the dealer shop",
+    "image": "https://images.unsplash.com/photo-1746047420047-03fc7a9b9226?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",     
+    "brand_types": {
+      "bt_level0": "Cars",
+      "bt_level1": "Cars > Electric cars",
+      "bt_level2": "Cars > Electric cars > Rivian"
+    },
+    "brand_origin": {
+      "origin_level0": "American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > Florida",
+      "origin_level3": "American > USA > Florida > Rockledge"
+    },    
+    "logo_type": {
+      "lt_level0": "Letter",
+      "lt_level1": "Letter > Plain",
+      "lt_level2": "Letter > Plain > Full name"
+    }
+  },
+ {
+    "title": "Polestar",
+    "artist": "Finn IJspeert",
+    "year": 2021,
+    "description": "Logo of Polestar on the car",
+    "image": "https://images.unsplash.com/photo-1617633371235-084d7a6bc1c2?q=80&w=3095&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",     
+    "brand_types": {
+      "bt_level0": "Cars",
+      "bt_level1": "Cars > Electric cars",
+      "bt_level2": "Cars > Electric cars > Polestar"
+    },
+    "brand_origin": {
+      "origin_level0": "European",
+      "origin_level1": "European > Sweden",
+      "origin_level2": "European > Sweden > Gothenburg"
+    },    
+    "logo_type": {
+      "lt_level0": "Icon",
+      "lt_level1": "Icon > Abstraction",
+      "lt_level2": "Icon > Abstraction > Geometric"
+    }
+  },
+ {
+    "title": "Toyota",
+    "artist": "HY ART",
+    "year": 2022,
+    "description": "Logo of Toyota on the car",
+    "image": "https://images.unsplash.com/photo-1669109777226-73e0ce597658?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",     
+    "brand_types": {
+      "bt_level0": "Cars",
+      "bt_level1": "Cars > Tradition/Everyday",
+      "bt_level2": "Cars > Tradition/Everyday > Toyota"
+    },
+    "brand_origin": {
+      "origin_level0": "Asian",
+      "origin_level1": "Asian > Japan",
+      "origin_level2": "Asian > Japan > Nagoya"
+    },    
+    "logo_type": {
+      "lt_level0": "Icon",
+      "lt_level1": "Icon > Abstraction",
+      "lt_level2": "Icon > Abstraction > Geometric"
+    }
+  }, 
+ {
+    "title": "Ford",
+    "artist": "Haberdoedas II",
+    "year": 2024,
+    "description": "Logo of Ford on the handle",
+    "image": "https://images.unsplash.com/photo-1740307952254-9170889c5256?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",     
+    "brand_types": {
+      "bt_level0": "Cars",
+      "bt_level1": "Cars > Tradition/Everyday",
+      "bt_level2": "Cars > Tradition/Everyday > Ford"
+    },
+    "brand_origin": {
+      "origin_level0": "American",
+      "origin_level1": "American > USA",
+      "origin_level2": "American > USA > Michigan",
+      "origin_level3": "American > USA > Michigan > Detroit"
+    },    
+    "logo_type": {
+      "lt_level0": "Letter",
+      "lt_level1": "Letter > Script",
+      "lt_level2": "Letter > Script > Ford Script"
+    }
+  },
+ {
+    "title": "Hyundai",
+    "artist": "@named_ aashutosh",
+    "year": 2020,
+    "description": "Logo of Hyundai on the handle",
+    "image": "https://images.unsplash.com/photo-1588036873025-7261a5647adf?q=80&w=1710&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_types": {
+      "bt_level0": "Cars",
+      "bt_level1": "Cars > Tradition/Everyday",
+      "bt_level2": "Cars > Tradition/Everyday > Hyundai"
+    },
+    "brand_origin": {
+      "origin_level0": "Asian",
+      "origin_level1": "Asian > South Korea",
+      "origin_level2": "Asian > South Korea > Seoul"
+    },    
+    "logo_type": {
+      "lt_level0": "Icon",
+      "lt_level1": "Icon > Abstraction",
+      "lt_level2": "Icon > Abstraction > Geometric"
     }
  }
 ]
