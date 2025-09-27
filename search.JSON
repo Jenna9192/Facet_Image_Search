@@ -30,12 +30,12 @@
     "year": 2022,
     "description": "Adidas blue logo of three leaves",
     "image": "https://images.unsplash.com/photo-1658087252613-a4d09bf7a64c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fashion",
       "bt_level1": "Fashion > Sportswear",
       "bt_level2": "Fashion > Sportswear > Adidas"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0": "European",
       "origin_level1": "European > Germany",
       "origin_level2": "European > Germany > Herzogenaurach"
@@ -53,12 +53,12 @@
     "year": 2018,
     "description": "The NB Billboard",
     "image": "https://images.unsplash.com/photo-1518841252147-00cc0a43dcaf?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fashion",
       "bt_level1": "Fashion > Sportswear",
       "bt_level2": "Fashion > Sportswear > New Balance"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0": "American",
       "origin_level1": "American > USA",
       "origin_level2": "American > USA > Massachusetts",
@@ -76,12 +76,12 @@
     "year": 2020,
     "description": "The Uniqlo Billboard on a building",
     "image": "https://images.unsplash.com/photo-1602519095267-53c956c8cf74?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fashion",
       "bt_level1": "Fashion > Casual",
       "bt_level2": "Fashion > Casual > Uniqlo"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0": "Asian",
       "origin_level1": "Asian > Japan",
       "origin_level2": "Asian > Japan > Yamaguchi"
@@ -98,12 +98,12 @@
     "year": 2022,
     "description": "Polo ralph lauren store",
     "image": "https://images.unsplash.com/photo-1661655550144-eda0b073f8dc?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fashion",
       "bt_level1": "Fashion > Casual",
       "bt_level2": "Fashion > Casual > Polo Ralph Lauren"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0":"American",
       "origin_level1": "American > USA",
       "origin_level2": "American > USA > New York",
@@ -121,12 +121,12 @@
     "year": 2020,
     "description": "H&M fashion store in Osaka, Japan",
     "image": "https://images.unsplash.com/photo-1661655550144-eda0b073f8dc?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fashion",
       "bt_level1": "Fashion > Casual",
       "bt_level2": "Fashion > Casual > H&M"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0": "European",
       "origin_level1": "European > Sweden",
       "origin_level2": "European > Sweden > Vasteras"
@@ -143,12 +143,12 @@
     "year": 2021,
     "description": "Chanel Store Logo",
     "image": "https://images.unsplash.com/photo-1625228339861-24040dc97591?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fashion",
       "bt_level1": "Fashion > Luxury",
       "bt_level2": "Fashion > Luxury > Chanel"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0": "European",
       "origin_level1": "European > France",
       "origin_level2": "European > France > Paris"
@@ -165,12 +165,12 @@
     "year": 2024,
     "description": "LV logo",
     "image": "https://images.unsplash.com/photo-1713351449131-56aac95429f7?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fashion",
       "bt_level1": "Fashion > Luxury",
       "bt_level2": "Fashion > Luxury > Louis Vuitton"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0": "European",
       "origin_level1": "European > France",
       "origin_level2": "European > France > Paris"
@@ -187,12 +187,12 @@
     "year": 2019,
     "description": "Dior logo with background",
     "image": "https://images.unsplash.com/photo-1557653038-2eccb2175702?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fashion",
       "bt_level1": "Fashion > Luxury",
       "bt_level2": "Fashion > Luxury > Dior"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0": "European",
       "origin_level1": "European > France",
       "origin_level2": "European > France > Paris"
@@ -209,12 +209,12 @@
     "year": 2024,
     "description": "Domino's Pizza on phone",
     "image": "https://images.unsplash.com/photo-1730817403537-b35e97a5fe65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fast Food",
       "bt_level1": "Fast Food > Pizza",
       "bt_level2": "Fast Food > Pizza > Domino's Pizza"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0": "American",
       "origin_level1": "American > USA",
       "origin_level2": "American > USA > Michigan",
@@ -232,12 +232,12 @@
     "year": 2021,
     "description": "Pizza hut logo on paper",
     "image": "https://images.unsplash.com/photo-1620174645265-05820da4ff20?q=80&w=2231&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fast Food",
       "bt_level1": "Fast Food > Pizza",
       "bt_level2": "Fast Food > Pizza > Pizza Hut"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0": "American",
       "origin_level1": "American > USA",
       "origin_level2": "American > USA > Kansas",
@@ -255,12 +255,12 @@
     "year": 2020,
     "description": "a mcdonald's sign with a cloudy sky in the background",
     "image": "https://images.unsplash.com/photo-1606720335177-3d04e70fb13b?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fast Food",
       "bt_level1": "Fast Food > Burger",
       "bt_level2": "Fast Food > Burger > McDonald's"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0": "American",
       "origin_level1": "American > USA",
       "origin_level2": "American > USA > California",
@@ -278,12 +278,12 @@
     "year": 2021,
     "description": "UNKs coffee shop signage",
     "image": "https://images.unsplash.com/photo-1615921511258-0aa98c84d400?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fast Food",
       "bt_level1": "Fast Food > Burger",
       "bt_level2": "Fast Food > Burger > Burger king"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0": "American",
       "origin_level1": "American > USA",
       "origin_level2": "American > USA > Florida",
@@ -301,12 +301,12 @@
     "year": 2021,
     "description": "white and brown UNKs restaurant",
     "image": "https://images.unsplash.com/photo-1619474387533-301ed3b5a734?q=80&w=930&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "brand_type": {
+    "brand_types": {
       "bt_level0": "Fast Food",
       "bt_level1": "Fast Food > Burger",
       "bt_level2": "Fast Food > Burger > Shake Shack"
     },
-    "origin": {
+    "brand_origin": {
       "origin_level0": "American",
       "origin_level1": "American > USA",
       "origin_level2": "American > USA > New York",
