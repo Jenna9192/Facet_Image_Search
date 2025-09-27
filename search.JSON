@@ -210,9 +210,9 @@
     "description": "Domino's Pizza on phone",
     "image": "https://images.unsplash.com/photo-1730817403537-b35e97a5fe65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "brand_types": {
-      "bt_level0": "Fast Food",
-      "bt_level1": "Fast Food > Pizza",
-      "bt_level2": "Fast Food > Pizza > Domino's Pizza"
+      "bt_level0": "Fast food",
+      "bt_level1": "Fast food > Pizza",
+      "bt_level2": "Fast food > Pizza > Domino's Pizza"
     },
     "brand_origin": {
       "origin_level0": "American",
@@ -233,9 +233,9 @@
     "description": "Pizza hut logo on paper",
     "image": "https://images.unsplash.com/photo-1620174645265-05820da4ff20?q=80&w=2231&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "brand_types": {
-      "bt_level0": "Fast Food",
-      "bt_level1": "Fast Food > Pizza",
-      "bt_level2": "Fast Food > Pizza > Pizza Hut"
+      "bt_level0": "Fast food",
+      "bt_level1": "Fast food > Pizza",
+      "bt_level2": "Fast food > Pizza > Pizza Hut"
     },
     "brand_origin": {
       "origin_level0": "American",
@@ -256,9 +256,9 @@
     "description": "a mcdonald's sign with a cloudy sky in the background",
     "image": "https://images.unsplash.com/photo-1606720335177-3d04e70fb13b?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "brand_types": {
-      "bt_level0": "Fast Food",
-      "bt_level1": "Fast Food > Burger",
-      "bt_level2": "Fast Food > Burger > McDonald's"
+      "bt_level0": "Fast food",
+      "bt_level1": "Fast food > Burger",
+      "bt_level2": "Fast food > Burger > McDonald's"
     },
     "brand_origin": {
       "origin_level0": "American",
@@ -279,9 +279,9 @@
     "description": "UNKs coffee shop signage",
     "image": "https://images.unsplash.com/photo-1615921511258-0aa98c84d400?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "brand_types": {
-      "bt_level0": "Fast Food",
-      "bt_level1": "Fast Food > Burger",
-      "bt_level2": "Fast Food > Burger > Burger king"
+      "bt_level0": "Fast food",
+      "bt_level1": "Fast food > Burger",
+      "bt_level2": "Fast food > Burger > Burger king"
     },
     "brand_origin": {
       "origin_level0": "American",
@@ -302,9 +302,9 @@
     "description": "white and brown UNKs restaurant",
     "image": "https://images.unsplash.com/photo-1619474387533-301ed3b5a734?q=80&w=930&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "brand_types": {
-      "bt_level0": "Fast Food",
-      "bt_level1": "Fast Food > Burger",
-      "bt_level2": "Fast Food > Burger > Shake Shack"
+      "bt_level0": "Fast food",
+      "bt_level1": "Fast food > Burger",
+      "bt_level2": "Fast food > Burger > Shake Shack"
     },
     "brand_origin": {
       "origin_level0": "American",
