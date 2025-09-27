@@ -160,6 +160,28 @@
     }
 },
 {
+    "title": "Louis Vuitton",
+    "artist": "Umpholphat Dangam",
+    "year": 2024,
+    "description": "LV logo",
+    "image": "https://images.unsplash.com/photo-1713351449131-56aac95429f7?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brand_type": {
+      "bt_level0": "Fashion",
+      "bt_level1": "Fashion > Luxury",
+      "bt_level2": "Fashion > Luxury > Louis Vuitton"
+    },
+    "origin": {
+      "origin_level0": "European",
+      "origin_level1": "European > France",
+      "origin_level2": "European > France > Paris"
+    },
+    "logo_type": {
+      "lt_level0": "Letter",
+      "lt_level1": "Letter > Plain",
+      "lt_level2": "Letter > Plain > Abbreviation"
+    }
+},
+{
     "title": "Dior",
     "artist": "Steven Su",
     "year": 2019,
